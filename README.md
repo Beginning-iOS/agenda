@@ -3,8 +3,8 @@
 ## Thursday, October 10th
 
 - Homework to work on before the meeting:
-  - _Greed_ code kata
-  - _Bowling Scoring_ code kata
+  - _[Greed](http://nimblepros.com/media/36619/greed%20kata.pdf)_ code kata
+  - _[Bowling Scoring](http://codingdojo.org/cgi-bin/wiki.pl?KataBowling)_ code kata
 - Code review(s)
   - We'll share and discuss our homework code
 - Show implementations of unit testing for ObjectiveC
