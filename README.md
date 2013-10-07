@@ -10,8 +10,9 @@
 - Show implementations of unit testing for ObjectiveC
 - Begin a tip calculator iPhone app
   - In class, we'll do very little with this except slap a few controls on the screen and wire up some of the eventing
+  - commit the project to our github site
 - Homework assigned for the next session:
-  - work on the tip calculator
+  - clone the tip calculator locally and work on it as homework
 
 ## Thursday, September 26th
 
